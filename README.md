@@ -1,0 +1,1 @@
+The objective of my final project is to create a website to serve as an ePortfolio for my work with. With this website, I hope to create three pages equipped with general information that may be useful to potential clientele. This includes a standard home page, an “about me” page, and a portfolio page showcasing some of my work. 
